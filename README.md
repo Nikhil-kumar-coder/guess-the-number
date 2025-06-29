@@ -1,9 +1,9 @@
-# Guess the Number 🎲 (Python Project)
+# Guess the 4-Digit Number 🎲 (Python Project)
 
 A beginner-friendly Python game where the user tries to guess a random number chosen by the computer.
 
 ## 🎮 How it Works
-- The program randomly selects a number between 1 and 100.
+- The program randomly selects a 4-Digit Number.
 - The player keeps guessing until they get it right.
 - It provides hints: **"Too high"** or **"Too low"**.
 
